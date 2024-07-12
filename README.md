@@ -2,7 +2,7 @@ The Form Application is deployed at: https://form-submission-test.netlify.app/
 
 The Responses Received by Admin is deployed at: https://form-submission-admin.netlify.app/
 
-Note: Since, these are free deployments, they might display error due to slow loading and connection with backend, so jsut wait for few seconds (20 - 30sec) and then refresh.
+Note: Since, these are free deployments, they might display error due to slow loading and connection with backend, so just wait for few seconds (20 - 30sec) and then refresh.
 
 Feature List:
 
