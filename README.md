@@ -6,7 +6,7 @@ Feature List:
 -   📝 Form Submission
 -   👀 Admin View
 
-### Setup .env file (first make a folder named 'config' in 'backend' folder
+### Setup .env file (first make a folder named 'config' in 'backend' folder, in that folder make .env file)
 
 ```js
 PORT = 4000
