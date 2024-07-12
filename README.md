@@ -28,9 +28,7 @@ MONGO_URI =
 
 - First 'cd' into each of the folders 'backend' , 'frontend' & 'dashboard' through terminal
 ```shell
-cd backend/ 
-cd frontend/ 
-cd dashboard/ 
+cd folder/
 ```
 
 and run 
@@ -38,7 +36,7 @@ and run
 ```shell
 npm i
 ```
-command
+command which installs all the required npm packages
 
 ### Start the app
 
