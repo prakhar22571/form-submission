@@ -1,8 +1,13 @@
-This Application is deployed at: https://threads-clone-n5cr.onrender.com/
+The Form Application is deployed at: https://form-submission-test.netlify.app/
+
+The Responses Received by Admin is deployed at: https://form-submission-admin.netlify.app/
+
+Note: Since, these are free deployments, they might display error due to slow loading and connection with backend, so jsut wait for few seconds (20 - 30sec) and then refresh.
 
 Feature List:
 
 -   🎃 User Authentication
+-   ➕ Add New Admin
 -   📝 Form Submission
 -   👀 Admin View
 
