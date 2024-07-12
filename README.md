@@ -1,6 +1,8 @@
 The Form Application is deployed at: https://form-submission-test.netlify.app/
 
-The Responses Received by Admin is deployed at: https://form-submission-admin.netlify.app/  [Email: admin4096@gmail.com, Password: admin4096]
+The Responses Received by Admin is deployed at: https://form-submission-admin.netlify.app/ 
+
+For Admin Portal: [Email: admin4096@gmail.com, Password: admin4096]
 
 
 Note: Since, these are free deployments, they might display error due to slow loading and connection with backend, so just wait for few seconds (20 - 30sec) and then refresh.
